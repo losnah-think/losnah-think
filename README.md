@@ -30,21 +30,9 @@
   화주사 분리, 정책 프리셋, 빈/에러 화면 표준화
 - **Maestro CMP (VIOLA/OBOE)**  
   엔터프라이즈 클라우드 관리 **대시보드·정책·권한·감사 이력** 중심 설계
-- **Shinsegae CMP**  
+- **Spharos CMP**  
   자산/모니터링·운영 대시보드, 멀티 계정/프로젝트 관점의 정보구조
-- **QA/테스트 자산**  
-  OpenCart Admin 고급 테스트케이스, 커스텀 E2E 기준 템플릿
-
-> 실제 산출물은 보안/계약 이슈로 공개 범위를 조정합니다. 필요 시 **익명화 데모** 제공 가능합니다.
-
-## Working Principles
-1. **정의 우선**: 용어·엔터티·정책을 먼저 고정, 화면/프로세스는 그 위에 올린다.  
-2. **예외 중심**: 에러/빈 상태/재시도/로그부터 설계하면 운영이 빨라진다.  
-3. **측정 가능한 기획**: QA 기준과 로그로 결과를 증명한다.
 
 ## Tooling
 Figma · Notion · Mermaid · Markdown  
 Playwright · Selenium · (React/Next.js·Tailwind · Python/Node.js 인접 협업)
-### EN (Brief)
-Product planner specializing in **commerce OMS/WMS** and **enterprise admin**.  
-I connect **IA → policies → exceptions → audit → QA** into one shippable system.
