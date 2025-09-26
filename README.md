@@ -35,4 +35,4 @@
 
 ## Tooling
 Figma · Notion · Mermaid · Markdown  
-Playwright · Selenium · (React/Next.js·Tailwind · Python/Node.js 인접 협업)
+Playwright · Selenium · (React/Next.js·Tailwind · Python/Node.js)
